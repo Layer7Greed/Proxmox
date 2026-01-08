@@ -41,4 +41,10 @@ Weiteres wurde Ubuntu aufgesetzt als VM und standard Einstellungen übernommen.
 
 SAVE CHANGES
 
+Erfolg ist nicht der Schlüssel zum Glück, sondern Glück ist der Schlüssel zum Erfolg. Wenn du gerne tust, was du tust, wirst du auch erfolgreich sein.
+ Dieses Zitat von Albert Schweitzer betont, dass die Leidenschaft für das eigene Tun entscheidend für den Erfolg ist. Ubuntu Server ist somit eingerichtet:
+
+<img width="574" height="441" alt="image" src="https://github.com/user-attachments/assets/761d96a3-e5cc-4124-8ad1-3dcd74ef6615" />
+
+Morgen gibt es die Einrichtung des eigentlichen Servers für PZ. Stand 08.01.2026 
 
