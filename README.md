@@ -180,3 +180,5 @@ Durch diese Regeln kann ich jetzt obwohl ich nicht zuhause bin auf meinem Proxmo
 
 Durchaus war diese Übung erfolgreich und umfangreich nicht nur Basics sondern auch durch diese etwas fortgeschritterne Settings. Weitreres würde ich Services installieren, um mein Netwerk sicherer zu machen. 
 
+<img width="590" height="1278" alt="image" src="https://github.com/user-attachments/assets/979e40c7-0707-4b08-950e-288995e45fae" />
+
